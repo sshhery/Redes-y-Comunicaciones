@@ -1,9 +1,7 @@
 
 <div align="center"> 
 
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Fabian-Martinez-Rincon/Redes-y-Comunicaciones)
-[![GitHub stars](https://img.shields.io/github/stars/Fabian-Martinez-Rincon/Redes-y-Comunicaciones)](https://github.com/Fabian-Martinez-Rincon/Redes-y-Comunicaciones/stargazers/)
-[![GitHub repo size in bytes](https://img.shields.io/github/repo-size/Fabian-Martinez-Rincon/Redes-y-Comunicaciones)](https://github.com/Fabian-Martinez-Rincon/Redes-y-Comunicaciones)
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1200&pause=1000&color=F78E23&center=true&width=435&lines=Redes y Comunicaciones"/>
 
