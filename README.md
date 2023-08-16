@@ -11,10 +11,6 @@
 
 
 
-<img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
-
-<p><img width="250" align='right' src="https://media.giphy.com/media/8L18v7K36xCOvndOFT/giphy.gif"></p>
-
 - [📕 Libro](https://drive.google.com/file/d/1w921vXwh6biZZB5UO2xDTcf8YuaSn4nQ/view)
 - [📁 Drive Dios](https://drive.google.com/drive/folders/1PpIuw0DNzg91yChKWdSRtn9jRsmsN1nJ)
 - [Practica 1 Introducción](/Documentos/Practica1/Practica1Final.md)
